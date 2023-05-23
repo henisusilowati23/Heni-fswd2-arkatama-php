@@ -30,7 +30,7 @@
 					<h1> HENI </h1>
 					<p> <span class="fw-bold"> SUSILOWATI </span> </p>
 					<h6> MAHASISWA </h6>
-				<img src="img/heni.jpeg" class="img-thumbnail" width="198" height="245">
+				<img src="img/nini.jpeg" class="img-thumbnail" width="198" height="245">
 				</div>
 			</div>
 		</div>
